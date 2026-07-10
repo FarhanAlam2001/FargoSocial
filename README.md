@@ -1,4 +1,4 @@
-# FarhanSOCIAL — Social Network Backend API
+# FargoSOCIAL — Social Network Backend API
 
 > A production-style backend service in Go, built to demonstrate clean architecture, relational data modeling, and modern backend engineering practices.
 
