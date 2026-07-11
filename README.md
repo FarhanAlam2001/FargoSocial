@@ -2,7 +2,7 @@
 
 > A production-style backend service in Go, built to demonstrate clean architecture, relational data modeling, and modern backend engineering practices.
 
-**Author:** [Farhan Alam](https://github.com/FarhanAlam2001)  
+**Author:** [Md Farhan Rusafi Alam](https://github.com/FarhanAlam2001)  
 **Repository:** [github.com/FarhanAlam2001/social](https://github.com/FarhanAlam2001/social)  
 **Language:** Go 1.26.5
 
